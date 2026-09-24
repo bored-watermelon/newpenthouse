@@ -1,0 +1,5 @@
+Type: gallery
+Title: sketchbook
+Images: play/Art
+Size: 1x1
+Color: dark

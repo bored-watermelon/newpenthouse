@@ -1,0 +1,5 @@
+Type: text
+Title: currently
+Content: designing 0 → 1 payment products at Juspay, and learning front-end one weekend at a time.
+Size: 2x1
+Color: purple

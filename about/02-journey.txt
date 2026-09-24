@@ -1,0 +1,8 @@
+Type: journey
+Title: the route so far
+Content:
+rudrapur | where it started
+roorkee | IIT, B.Tech ’23
+mumbai | home, for now
+Size: 2x1
+Color: blue

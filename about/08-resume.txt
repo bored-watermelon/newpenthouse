@@ -1,0 +1,6 @@
+Type: link
+Title: the formal version (my resume)
+Link: /Sneha%20Jain%20Resume.pdf
+Image: resume-preview.png
+Size: 2x1
+Color: white

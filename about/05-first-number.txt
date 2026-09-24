@@ -1,0 +1,5 @@
+Type: text
+Title: first internship, first number
+Content: i designed the community section of Jeevam Health’s app. daily actives went up 16%, and i’ve been chasing that feeling ever since.
+Size: 2x1
+Color: pink

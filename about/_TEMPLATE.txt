@@ -1,0 +1,28 @@
+# One file per card. Copy this, rename it (e.g. 03-friends.txt) and edit. Files starting with "_" are ignored.
+# Cards appear in file-name order at first (visitors can drag them around). Images live in media/about.
+#
+# Type is one of:  photo | friends | quote | list | text | gallery | link
+# Optional for every card:  Size: 2x2 (columns x rows, default depends on type)   Color: blue | pink | purple | yellow | green | dark | white | #hex
+#
+# --- photo ---            Image: me-at-the-beach.jpg     Caption: the good old days
+# --- friends ---          Title: close friends
+#                          Content:
+#                          Leo | leo.jpg
+#                          Haru | haru.jpg
+# --- quote ---            Content: Everybody's falling in love, and I'm falling behind.
+#                          Title: whoever said it            (Title is the attribution)
+# --- list ---             Title: things i can't live without
+#                          Content:
+#                          - filter coffee
+#                          - a good playlist
+# --- text (anecdote) ---  Title: the time i got locked out
+#                          Content: One evening I...
+# --- gallery (opens an overlay you can flick through) ---
+#                          Title: my camera roll
+#                          Image: camera.png                (the picture shown on the card; a default camera icon is used if left out)
+#                          Images: shot1.jpg, shot2.jpg, shot3.jpg
+# --- link ---             Title: my goodreads   Link: https://www.goodreads.com/...
+
+Type: quote
+Title: someone wise
+Content: Everybody's falling in love, and I'm falling behind.

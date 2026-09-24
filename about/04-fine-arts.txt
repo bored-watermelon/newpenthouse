@@ -1,0 +1,10 @@
+Type: list
+Title: at iit roorkee, i also
+Content:
+- ran the fine arts section
+- taught comics to 65+ people
+- painted walls across campus
+- curated ‘Darpan’, twice
+Size: 1x2
+Doodle: brush
+Color: yellow
