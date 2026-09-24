@@ -1,0 +1,7 @@
+the back button and the scrolling index in the case study should look in the "back button and index.png" screenshot. they will be sticky and will be aligned with each other on the left. The Case Study header, Timeline, contribution, contributors and rest of the documented sections will be aligned together and in the centre just like in this case study - https://benji.org/family-values [DONE]
+"case study tablet size.png" this screenshot represent the case study page's behavior for a tablet device. "mobile case study behavior.png" and this represents the behavior for the mobile. note how the back button is fixed on the top and the scrolling index thing disappears. and there is a subtle gradient/ blur effect behind the back button section. [DONE]
+get rid of the auto scroll thing on the work-play section in the home page. [DONE]
+the eyes in the download resume button in the footer are going outside the button. they should stay inside the button, like in - "download button.png"[DONE]
+bring back the card stacking animation on scroll in the project cards in the work section.[DONE]
+when the chat in the landing page is still loading, the user cannot scroll to the next section in the home page, they are forced back to the hero section, don't do that.[DONE]
+use these icons in copy email button in the chats on the landing screen, one is for copy button, one is for when copied - https://www.figma.com/design/uUehLx8m42nzZ1nD5slXsj/draft?node-id=880-15378&t=bwv8E24YetS0pefX-4

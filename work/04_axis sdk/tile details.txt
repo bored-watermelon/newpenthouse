@@ -1,0 +1,7 @@
+Project Title: Designing for Merchant Apps to Manage Co-Brand Credit Cards
+Project Description: A modular banking SDK for Axis Bank’s co-brand credit cards, starting with Scapia.
+
+Interface: Mobile
+Distribution: B2C
+Domain: Credit Cards
+Client: Juspay, Axis Bank

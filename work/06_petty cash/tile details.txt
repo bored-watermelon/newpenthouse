@@ -1,0 +1,7 @@
+Project Title: What If Company Expenses Didn’t Need Reimbursements?
+Project Description: A UPI payment experience that lets operations teams pay for business expenses without dipping into their own money.
+
+Interface: Mobile
+Distribution: B2B2C
+Domain: Payments
+Client: Juspay

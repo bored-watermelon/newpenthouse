@@ -1,0 +1,7 @@
+Project Title: DeXyne: A Figma Plugin to Aid Designers’ Research
+Project Description: An in-house research plugin that helps designers gather curated inspiration for their projects, right inside Figma.
+
+Interface: Figma Plugin
+Distribution: B2C
+Client: Juspay, Mobbin
+Domain: Design Tools

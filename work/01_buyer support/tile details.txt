@@ -1,0 +1,7 @@
+Project Title: Troubleshooting Made Easier with a Central Support Module
+Project Description: Streamlined how banks and Visa admins support their corporates, and significantly cut the time it takes to resolve a query.
+
+Interface: Web
+Distribution: B2B
+Domain: Dashboard Design
+Client: Juspay, Visa

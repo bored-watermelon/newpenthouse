@@ -1,0 +1,25 @@
+Project Title: Troubleshooting made easier with a Central Support Module
+Project Description: Streamlined the support providing flow and significantly reduced the query resolution time
+Interface: Desktop
+Distribution: B2B
+Domain: Payments
+Client: Juspay, Visa
+
+# Copy this WHOLE FOLDER, rename it and edit what's inside. Folders starting with "_" are ignored.
+#
+# A project is a folder in /work, and everything it needs lives in there:
+#   tile details.txt   this file
+#   thumbnail.*        the image inside the tile        (png / jpg / jpeg / webp / avif)
+#   bg.*               the tile's background image      (same formats)
+#   case study.md      the write-up — optional, leave it out and the tile just won't link anywhere
+#   media/             images and videos the write-up refers to
+#
+# Nothing here references a file by name: the thumbnail is whatever is called "thumbnail", and so on.
+# The folder name sets both the order and the case study's URL — "01_buyer support" is the first tile and
+# lives at /case-studies/buyer-support. Renumber the folders to reorder the tiles.
+#
+# Case Study: <url>   is optional, and only for pointing a tile at a write-up hosted somewhere else.
+# Client names must match a file in the logos folder (Juspay, Visa, Thomas Cook, ...).
+# Interface, Distribution and Domain feed the three dropdown filters (and show as tags on the card). Use any values you like, e.g.
+#   Interface: Web / Kiosk / Mobile / Plugin    Distribution: B2B / B2C    Domain: Corporate Travel / Agentic Commerce
+# A project can have several values, separated by commas. The dropdown options are built from whatever values your files use.

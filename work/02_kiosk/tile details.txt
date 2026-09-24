@@ -1,0 +1,7 @@
+Project Title: Designing an Interactive Kiosk for VPF 2026, Paris
+Project Description: A demo kiosk that let event attendees experience Visa’s agentic commerce capabilities first-hand, and walk away with free goodies.
+
+Interface: Kiosk
+Distribution: B2B2C
+Domain: Agentic Commerce
+Client: Juspay, Visa

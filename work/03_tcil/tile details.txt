@@ -1,0 +1,7 @@
+Project Title: Transforming How Travel Agents Manage Corporate Bookings
+Project Description: A 0 → 1 booking suite for Thomas Cook’s travel agents, designed to replace a legacy command-line system end to end.
+
+Interface: Web
+Distribution: B2B
+Domain: Travel Bookings
+Client: Juspay, Thomas Cook

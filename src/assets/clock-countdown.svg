@@ -1,0 +1,9 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="ClockCountdown">
+<path id="Vector" d="M14 8.5C13.7456 11.58 11.1456 14 8 14C6.4087 14 4.88258 13.3679 3.75736 12.2426C2.63214 11.1174 2 9.5913 2 8C2 4.85437 4.42 2.25438 7.5 2" stroke="#292524" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M8 4.5V8H11.5" stroke="#292524" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M10 3C10.4142 3 10.75 2.66421 10.75 2.25C10.75 1.83579 10.4142 1.5 10 1.5C9.58579 1.5 9.25 1.83579 9.25 2.25C9.25 2.66421 9.58579 3 10 3Z" fill="#292524"/>
+<path id="Vector_4" d="M12.25 4.5C12.6642 4.5 13 4.16421 13 3.75C13 3.33579 12.6642 3 12.25 3C11.8358 3 11.5 3.33579 11.5 3.75C11.5 4.16421 11.8358 4.5 12.25 4.5Z" fill="#292524"/>
+<path id="Vector_5" d="M13.75 6.75C14.1642 6.75 14.5 6.41421 14.5 6C14.5 5.58579 14.1642 5.25 13.75 5.25C13.3358 5.25 13 5.58579 13 6C13 6.41421 13.3358 6.75 13.75 6.75Z" fill="#292524"/>
+</g>
+</svg>
