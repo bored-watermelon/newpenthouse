@@ -1,0 +1,17 @@
+Project Title: Troubleshooting made easier with a Central Support Module
+Project Description: Streamlined the support providing flow and significantly reduced the query resolution time
+Interface: Desktop
+Distribution: B2B
+Domain: Payments
+Thumbnail: buyer-support.png
+Background: forest.jpg
+Client: Juspay, Visa
+Case Study: /case-studies/buyer-support
+
+# Copy this file, rename it (e.g. 01-buyer-support.txt) and edit it. Files starting with "_" are ignored.
+# Thumbnail is an image name from media/thumbnails, Background one from media/backgrounds.
+# Client names must match a file in the logos folder (Juspay, Visa, Thomas Cook, ...).
+# Interface, Distribution and Domain feed the three dropdown filters (and show as tags on the card). Use any values you like, e.g.
+#   Interface: Web / Kiosk / Mobile / Plugin    Distribution: B2B / B2C    Domain: Corporate Travel / Agentic Commerce
+# A project can have several values, separated by commas. The dropdown options are built from whatever values your files use.
+# Projects are ordered by file name, so prefix with 01-, 02-, ... to control the order.
